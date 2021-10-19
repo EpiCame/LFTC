@@ -1,0 +1,8 @@
+﻿  AnalizatorLexical.cpp
+  Codare.cpp
+  List.cpp
+  main.cpp
+  Utils.cpp
+C:\Users\Asus\Facultate\SEM5\LimbajeFormaleSiTehniciDeCompilare\Lab\Lab1\AnalizatorLexical\Utils.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AnalizatorLexical.vcxproj -> C:\Users\Asus\Facultate\SEM5\LimbajeFormaleSiTehniciDeCompilare\Lab\Lab1\AnalizatorLexical\Debug\AnalizatorLexical.exe
