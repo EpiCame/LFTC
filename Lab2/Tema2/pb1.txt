@@ -1,0 +1,5 @@
+Q: X Y Z
+A: a b
+T: X a Y; Y a Y; Y b Z; Z b Z 
+F: Z
+I: X

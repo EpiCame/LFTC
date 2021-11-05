@@ -1,0 +1,5 @@
+﻿  Console.cpp
+C:\Users\Asus\Facultate\SEM5\LimbajeFormaleSiTehniciDeCompilare\Lab\Lab2\Tema2\Console.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Facultate\SEM5\LimbajeFormaleSiTehniciDeCompilare\Lab\Lab2\Tema2\Console.cpp(295,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Facultate\SEM5\LimbajeFormaleSiTehniciDeCompilare\Lab\Lab2\Tema2\Console.cpp(357,20): warning C4018: '<': signed/unsigned mismatch
+  Tema2.vcxproj -> C:\Users\Asus\Facultate\SEM5\LimbajeFormaleSiTehniciDeCompilare\Lab\Lab2\Tema2\Debug\Tema2.exe

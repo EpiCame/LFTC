@@ -1,0 +1,12 @@
+#include
+<iostream>
+int
+double
+void
+main
+cout
+cin
+while
+if
+else
+endl

@@ -1,0 +1,11 @@
+Structura Lab Denisa
+
+Tranzitie:
+	stanga: string
+	dreapta: string
+	elementAlfabet: string
+	esteFinala: bool
+
+StateMachine:
+	tranzitii: List<Tranzitie>
+	stareInitiala: string
